@@ -2,12 +2,13 @@
   "name": "jsonld-patch",
   "version": "0.1.1-0",
   "description": "JSON patch for JSON-LD",
-  "main": "lib",
+  "main": "dist",
   "files": [
     "dist/*.js",
     "dist/*.js.map",
     "lib/*.js",
-    "lib/**/*.js"
+    "lib/**/*.js",
+    "contexts/**/*.json"
   ],
   "repository": {
     "type": "git",
